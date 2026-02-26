@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Jhansi Rani  
+🚀 DevOps Engineer | AWS | CI/CD Automation | Terrraform | kubernetes 
+- 😄 Pronouns: She/her
+## 🔧 Skills & Tools
+- Cloud: AWS 
+- CI/CD: Jenkins 
+- Containers: Docker, Kubernetes  
+- Infrastructure as Code: Terraform, Ansible  
+- Monitoring: Prometheus, Grafana, ELK Stack  
+- Scripting: Bash, Python  
 
-<!--
-**jhansirani-222/jhansirani-222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 What I Do
+- Build and automate CI/CD pipelines for faster, reliable deployments  
+- Architect scalable cloud infrastructures  
+- Troubleshoot complex deployments with root-cause analysis   
 
-Here are some ideas to get you started:
+## 📫 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:jhansirani.devops@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jhansiranidevopsprofile/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repos-black?logo=github)](https://github.com/jhansirani-222)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+✨ *Persistent problem-solver | Visual learner *
+ 
+
+
+
 -->
