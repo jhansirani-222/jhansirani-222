@@ -4,8 +4,10 @@
 ## 🔧 Skills & Tools
 - Cloud: AWS 
 - CI/CD: Jenkins 
-- Containers: Docker, Kubernetes  
-- Infrastructure as Code: Terraform, Ansible  
+- Containers: Docker
+- container archestration: Kubernetes  
+- Infrastructure as Code: Terraform
+- Configuration management:Ansible  
 - Monitoring: Prometheus, Grafana, ELK Stack  
 - Scripting: Bash, Python  
 
