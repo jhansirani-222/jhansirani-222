@@ -17,7 +17,7 @@
 - Troubleshoot complex deployments with root-cause analysis   
 
 ## 📫 Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:jhansirani.devops@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:jhansirani.profile@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jhansiranidevopsprofile/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repos-black?logo=github)](https://github.com/jhansirani-222)  
 
